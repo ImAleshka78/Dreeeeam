@@ -1,18 +1,13 @@
-The code hasn't been posted yet, and it's Godot.
+Hello!
 
-Hi , there.  
-It's all part of an experimental game I conceived when I was 19 age.  
-I have a lot of ideas, but I don't have 100 years of miserable life.  
+The essence of this project (it's a game) is to create an (Ideal Sandbox) for people who ESPECIALLY value the creative possibilities of the game.
 
-The first desire was to create a sandbox that would be ( non-block game ) and have creative capabilities. After almost two years of thinking and doing rough calculations, I finally found a formula that feels good to me. That's cool.  
+To be honest, I have a lot of ideas but no time. That's why I hope to finish at least a Techno_Demo of this game with all the tools that will allow you to build your own world.
 
-In five years of living, I've lost a little bit of the enthusiasm I used to have to enjoy life. However, I still continue to do what I like without any hope that this "project" will gain any popularity.  
+Honestly, I don't like all this serious tone. After all, it's a game and it should bring joy. I'm not some dude who takes this seriously. Initially, I was involved in modding, but the possibilities of games didn't inspire me, so I decided to make a game from scratch.
 
-I'm not much of a game developer, and I didn't even learn how to do it. I have a super education in the field. At first I wanted to create mods for games but their capabilities were too limited for my imagination.  
+Here are some answers to possible questions >.
 
-Here are some answers to possible questions ->  
-
-  A ->   This game is made for non-commercial purposes and you can fork it.  
-  B ->   Yeah, this game may not be finished.  
-  C ->   I don't have a social network, but I want to start a YouTube channel where I can post some videos.  
-  ( I don't remember which letter is next in the alphabet :) ->   I don't remember what I wanted to write.
+A -> This game is made for non-commercial purposes and you can fork it.
+B -> Yeah, this game may not be finished.
+C -> I don't have a social network, but I want to start a YouTube channel where I can post some videos.
